@@ -1,0 +1,12 @@
+【名称】          【配置地址】
+OK猫开发          http://ok213.top/tv
+饭太硬            http://www.饭太硬.com/tv
+liucn             https://raw.liucn.cc/box/m.json
+王小二            https://9280.kstore.space/wex.json
+qist              https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+讴歌              https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1
+高天流云          https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+肥猫              http://肥猫.com/
+盒子迷            https://盒子迷.top/禁止贩卖
+摸鱼儿            http://我不是.摸鱼儿.com
+zwc365            http://kv.zwc365.com/tv.json
