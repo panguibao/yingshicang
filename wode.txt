@@ -1,0 +1,288 @@
+{
+    "urls": [
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+            "name": "胜寒接口"
+        },
+        {
+            "url": "https://clun.top/box.json",
+            "name": "小白接口"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+            "name": "真心接口"
+        },
+        {
+            "url": "http://47.96.82.41:5188/",
+            "name": "小哥哥接口"
+        },
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "老虎接口"
+        },
+        {
+            "url": "https://11293.kstore.space/%E8%A5%BF%E6%9F%9Ays.json",
+            "name": "小狐狸影视"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/xh2/raw/main/t.json",
+            "name": "XH2接口"
+        },
+        {
+            "url": "http://tv.999888987.xyz",
+            "name": "王二小备用接口"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top/",
+            "name": "王三小接口"
+        },
+        {
+            "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "name": "一木自用接口"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK杰克接口"
+        },
+        {
+            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+            "name": "官哥接口"
+        },
+        {
+            "url": "http://mzrjk.top/戏曲",
+            "name": "戏曲接口"
+        },
+        {
+            "url": "http://mzrjk.top/学习",
+            "name": "学习接口"
+        },
+        {
+            "url": "http://mzrjk.top/音乐",
+            "name": "音乐接口"
+        },
+        {
+            "url": "http://www.meowtv.vip/tvbox.json",
+            "name": "喵影视"
+        },
+        {
+            "url": "http://tv.nxog.top/m/",
+            "name": "欧歌接口"
+        },
+        {
+            "url": "https://3043.kstore.space/bhvip/bh/box.json",
+            "name": "宝盒VIP"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "QIST接口"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "电视魔盒"
+        },
+        {
+            "url": "https://d.kstore.dev/download/12020/t4.json",
+            "name": "花花公子"
+        },
+        {
+            "url": "https://11405.kstore.space/xiaye/qk4k.json",
+            "name": "夏夏接口"
+        },
+        {
+            "url": "https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/jelly.json",
+            "name": "果冻自用"
+        },
+        {
+            "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+            "name": "优质接口"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "影探4K"
+        },
+        {
+            "url": "http://530.my3v.work/hxck.json",
+            "name": "运输车VIP"
+        },
+        {
+            "url": "https://tv.菜妮丝.top",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json",
+            "name": "鸟叔接口"
+        },
+        {
+            "url": "https://gitee.com/dong2274560336/film-and-television-interface/raw/master/fty.json",
+            "name": "东哥接口"
+        },
+        {
+            "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+            "name": "天微七星"
+        },
+        {
+            "url": "http://xn--hwtam458y.icu/%E5%A3%B9%E7%B1%B3/yimi.json",
+            "name": "年年幸福"
+        },
+        {
+            "url": "https://kong88.dpdns.org/4k.json",
+            "name": "空空4K"
+        },
+        {
+            "url": "https://gitee.com/zxj77/mao/raw/master/xj.json",
+            "name": "4K影视"
+        },
+        {
+            "url": "https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json",
+            "name": "天神lY"
+        },
+        {
+            "url": "https://gitee.com/ltby1/vip/raw/master/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.json",
+            "name": "蓝天白云"
+        },
+        {
+            "url": "http://ficfac.com/ijia/app.json",
+            "name": "天堂岛接口"
+        },
+        {
+            "url": "https://d.kstore.dev/download/4071/api/api.json",
+            "name": "多咪接口"
+        },
+        {
+            "url": "https://jihulab.com/bhjk1/vip/-/raw/main/vip.json",
+            "name": "教育专线2"
+        },
+        {
+            "url": "http://box.nihaohezi.com/app/hzjy.json",
+            "name": "教育专线1"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "9877接口"
+        },
+        {
+            "url": "https://gitee.com/sydl2/bhmb/raw/master/ygbh.json",
+            "name": "神秘大佬"
+        },
+        {
+            "url": "https://tv.nxog.top/m/?&jPi?&LVF",
+            "name": "欧歌接口"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "当哥接口"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊佬接口"
+        },
+        {
+            "url": "https://catbox.n13.club/jk/jsm.json",
+            "name": "潮哥接口"
+        },
+        {
+            "url": "http://ficfac.com/ijia/app.json",
+            "name": "一哥接口"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
+            "name": "宝盒视界"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技接口"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "放牛娃"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://宝盒接口.top",
+            "name": "宝盒4K"
+        },
+        {
+            "url": "http://fmys.top/fmys.json",
+            "name": "驸马影视"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫接口"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼接口"
+        },
+        {
+            "url": "http://xhztv.top/xhz/",
+            "name": "聚玩盒子"
+        },
+        {
+            "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
+            "name": "玄珠接口"
+        },
+        {
+            "url": "http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json",
+            "name": "小鱼干接口"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧儿接口"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json",
+            "name": "裹柳接口"
+        },
+        {
+            "url": "https://gitee.com/bbstudou/tvbo/raw/master/11tv.json",
+            "name": "木木接口"
+        },
+        {
+            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+            "name": "小荷接口"
+        },
+        {
+            "url": "http://ok213.top/tv",
+            "name": "OK猫开发"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "liucn"
+        },
+        {
+            "url": "https://9280.kstore.space/wex.json",
+            "name": "王小二"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+            "name": "qist"
+        },
+        {
+            "url": "https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1",
+            "name": "讴歌"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高天流云"
+        },
+        {
+            "url": "http://肥猫.com/",
+            "name": "肥猫"
+        },
+        {
+            "url": "http://盒子迷.top/禁止贩卖",
+            "name": "盒子迷"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼儿"
+        },
+        {
+            "url": "http://kv.zwc365.com/tv.json",
+            "name": "zwc365"
+        }
+    ]
+}
